@@ -1,0 +1,46 @@
+{
+    "lastUpdated": "2026-03-22T06:30:00+08:00",
+    "source": "韋恩報報",
+    "articles": [
+        {
+            "id": 1,
+            "date": "2026/03/19",
+            "title": "JPMorgan 發布 2026 科技趨勢報告",
+            "summary": "JPMorgan Chase 發布年度科技趨勢報告，指出 AI 將從實驗階段進入核心業務系統。報告強調「Agentic AI」的重要性，可自動執行支付、審計交易文件、管理企業客戶流動性等任務。對金融業而言，這代表 AI 不再是輔助工具，而是營運核心。建議金融機構加速評估 AI 代理的合規性與風險管理框架。",
+            "source": "JPMorgan Chase",
+            "sourceUrl": "https://www.jpmorganchase.com/about/technology/blog/2026-tech-trends"
+        },
+        {
+            "id": 2,
+            "date": "2026/03/17",
+            "title": "JPMorgan 技術預算接近 200 億美元",
+            "summary": "JPMorgan 宣布 2026 年技術預算將達 199 億美元，較前年增加近 20 億美元，其中 12 億美元專門用於 AI 專案。CEO Jamie Dimon 表示 AI 投資難以量化回報，但強調技術進步的必要性。對社會而言，這顯示金融業正在大規模將 AI 整合入核心系統。就業市場可能因此出現轉型，建議關注金融從業人員的技能提升需求。",
+            "source": "Business Insider",
+            "sourceUrl": "https://www.businessinsider.com/jpmorgan-tech-budget-ai-20-billion-jamie-dimon-2026-2"
+        },
+        {
+            "id": 3,
+            "date": "2026/03/17",
+            "title": "JPMorgan 暫停 Qualtrics 53 億美元債務交易",
+            "summary": "JPMorgan 領導的銀行團以 AI 干擾軟體產業為由，暫停了對 Qualtrics International 的 53 億美元債務交易。此事件顯示 AI 正在重塑軟體產業的估值邏輯，投資人對 AI 顛覆風險日益謹慎。建議關注軟體業 AI 轉型落後者的融資困境，同時審慎評估科技併購案的 AI 風險因素。",
+            "source": "Seeking Alpha",
+            "sourceUrl": "https://seekingalpha.com/news/4565483-jpmorgan-led-banks-halt-53b-debt-to-qualtrics-amid-ai-related-software-rout---report"
+        },
+        {
+            "id": 4,
+            "date": "2026/03/09",
+            "title": "超過 60% 員工使用內部 AI 工具",
+            "summary": "JPMorgan 內部已有超過 60% 的員工使用行內 AI 工具，涵蓋超過 450 個使用案例。銀行同時推出「AI Made Easy」培訓計劃，教導員工基礎 AI 知識、提示工程與合規概念。此趨勢顯示 AI 賦能已深入金融業日常營運。建議企業加快內部 AI 教育訓練，並建立相應的合規與資料治理機制。",
+            "source": "AI Forum UK",
+            "sourceUrl": "https://aiforum.org.uk/ai-news-roundup-march-09-2026/"
+        },
+        {
+            "id": 5,
+            "date": "2026/03/01",
+            "title": "JPMorgan 推出 AI 網路安全顧問服務",
+            "summary": "JPMorgan 在 2026 年初成立新部門，提供網路安全與 AI 實作顧問服務，主要客戶為 Fortune 500 企業。此舉顯示大型金融機構正在將內部技術能力貨幣化。對社會而言，這代表 AI 技術正從內部應用走向外部商業化服務。建議企業考慮借助金融業的 AI 實作經驗，加速自身數位轉型。",
+            "source": "American Banker",
+            "sourceUrl": "https://www.americanbanker.com/news/jpmorgan-invests-for-new-age-of-competition-amid-ai-fears"
+        }
+    ]
+}
